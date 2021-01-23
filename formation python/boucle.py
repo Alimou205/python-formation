@@ -16,13 +16,13 @@ if age>= ages:
     print("vous êtes majeur")
 else:
     print("vous n'etes pas majeur")
-    '''
-    '''
+    
+    
 for b in range(10,20,2):
     print(b,"hello word",b)
 else:
     print("fin de boucle")
     '''
-    for i in range(10):
+for i in range(10):
      for j in range(2):
         print (i,j)

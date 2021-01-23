@@ -11,6 +11,14 @@ for i in range(5):
     for j in range(2):
          print (i,j)
 '''
-a = 10
-b = "hello"
-print(a)
+'''
+a = "hello world"
+print(len(a))
+'''
+mon_nom ="Alimou"
+couleur_preferer="bleu"
+print("hello",mon_nom)
+def surf cercle(r)
+    a=math.pi*r*r
+    return a
+    c
